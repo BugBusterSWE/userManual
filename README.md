@@ -1,3 +1,3 @@
-# My Awesome Book
+# MaaS user manual
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Enjoy our user manual! You can file multiple versions (for example PDF or eBook) here: https://www.gitbook.com/book/bugbusterswe/usermanual/details
