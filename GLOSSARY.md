@@ -10,7 +10,7 @@ It indicates the interface of an application that allows the user to enter and s
 
 ## Collection
 
-Set of documents
+Set of documents.
 
 ## Webmaster
 
