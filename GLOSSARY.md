@@ -6,4 +6,4 @@ Person who administers and manages the web service.
 
 ## collection
 
-Set of document
+Set of documents
