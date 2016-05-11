@@ -2,7 +2,7 @@
 
 
 ## Registration
-The first step to use MaaS is sign up by clicking to the Sign up button in the homepage. You will be offered a form to fill out with email address, password and name of the company. After that you must continue clicking the Sign up button.
+The first step to use MaaS is sign up by clicking to the Sign up button in the homepage. You will be offered a form to fill out with email address, password and name of the company. After that you can continue clicking the Sign up button.
 
 
 ## Authentication
@@ -10,8 +10,8 @@ The first step to use MaaS is sign up by clicking to the Sign up button in the h
 
 
 ## Password recovery
-The password recovery occurs in the case where the user has lost the password. In order to proceed with a password recovery you need to know your registration email. Recovery from password started with a login screen by clicking on the link "Forgot your password? ".
-Will be offered a form where you will be prompted to enter your registration email and click the Reset Password button. You will receive the instructions to be followed in the mailbox associated with the email address entered during registration.
+The password recovery occurs if the user has lost the password. In order to proceed with a password recovery you need to know your registration email. Click on the link "Forgot your password?" in the login screen to start the recovery procedure.
+A form will be offered to you. In this form you have to insert your registration email and click the Reset Password button. An email containing more instructions will be sent to that address.
 
 
 ## Access and change personal profile
