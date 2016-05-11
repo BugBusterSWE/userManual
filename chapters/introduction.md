@@ -1,7 +1,7 @@
 # Introduction
 
 ## Aim of the document
-This document is for the user, has the purpose to illustrate the procedures to be followed to carry out user operations of MaaS. The user is not required to have any knowledge of computers
+This document is for the users. It has the purpose to illustrate the procedures to be followed to carry out user operations of MaaS. The user is not required to have any knowledge of computers
 since it will be interfaced via web browser to MaaS service.
 
 ## Aim of the product
