@@ -2,7 +2,7 @@
 
 
 ## Registration
-The first step to use Maas is sign up to ii by clicking to the Sign up button in the homepage. You will be offered a form to fill out with email, password and name of the company, after which we must continue clicking the Sign up button.
+The first step to use MaaS is sign up to ii by clicking to the Sign up button in the homepage. You will be offered a form to fill out with email, password and name of the company, after which we must continue clicking the Sign up button.
 
 
 ## Authentication
