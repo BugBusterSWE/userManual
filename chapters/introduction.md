@@ -18,7 +18,7 @@ the following points:
 1. Contact of the person who reported the problem;
 2. Time reference;
 3. Actions and pages where the problem was found;
-4. If the error code displayed;
+4. The error code, if displayed;
 5. Any additional notes that are useful to the understanding of the problem.
 
 
