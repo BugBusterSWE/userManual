@@ -1,4 +1,4 @@
-# Management collection
+# Collection management
 
 
 ## Dashboard display
