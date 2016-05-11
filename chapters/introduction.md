@@ -8,7 +8,7 @@ The purpose of the project is the realization of a service for businesses, which
 data.
 
 ## Prerequisites
-The user must have an internet connection, and a web browser.
+The user must have an Internet connection, and a web browser. Supported browser are, at the time of writing, Google Chrome (minimum version: 49) and Mozilla Firefox (minimum version: 
 
 ## How to report problems and malfunctions
 In case of problems and malfunctions refer to the webmaster. The message subject will
