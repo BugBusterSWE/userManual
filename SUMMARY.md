@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapters/chapter1.md)
-* [Management collection](managementCollection.md)
+* [Management collection](chapters/ManagementCollection.md/managementcollectionmd.md)
 
