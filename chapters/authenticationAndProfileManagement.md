@@ -1,4 +1,4 @@
-# Authentication And Profile Management
+# Authentication and profile management
 
 
 ## Registration
@@ -9,7 +9,7 @@ The first step to use Maas is sign up to ii by clicking to the Sign up button in
 
 
 
-## Password Recovery
+## Password recovery
 The password recovery occurs in the case where the user has lost the password. In order to proceed with a password recovery you need to know your registration email. Recovery from password started with a login screen by clicking on the link "Forgot your password? ".
 Will be offered a form where you will be prompted to enter your registration email and click the Reset Password button. You will receive the instructions to be followed in the mailbox associated with the email address entered during registration.
 
