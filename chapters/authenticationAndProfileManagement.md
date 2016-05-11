@@ -15,4 +15,4 @@ A form will be offered to you. In this form you have to insert your registration
 
 
 ## Access and change personal profile
-In order to access to the profile's edit page, click on email address placed on the menu bar and select the voice "Profile". The user can change here the password.
+In order to access to the profile's edit page, click on email address placed on the menu bar and select the voice "Profile". Here, the user can modify his/her email address and password.
