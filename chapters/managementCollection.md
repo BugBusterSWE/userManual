@@ -10,7 +10,7 @@ The collection index page displays the contents of a collection in a table. To o
 
 
 ## Opening the show-page of a document
-The show-page of a document displays the document's attributes in a table. For access a show-page you need to position yourself in the collection index of belonging (see3.2) and follow step 3.
+The show-page of a document displays the document's attributes in a table. For access a show-page you need to position yourself in the collection index of belonging (see 3.2) and follow step 3.
 ![](documentShowPage.png)
 
 
