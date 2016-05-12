@@ -1,5 +1,4 @@
 # Introduction
-
 ## Aim of the document
 This document is for the users. It has the purpose to illustrate the procedures to be followed to carry out user operations of MaaS (MongoDB as an Admin Service). The user is not required to have any knowledge of computers since it will be interfaced via web browser to the MaaS service.
 
