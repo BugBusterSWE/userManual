@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapters/chapter1.md)
+* [Preface](README.md)
+* [Introduction](chapters/introduction.md)
+
