@@ -9,7 +9,7 @@ asked to enter an e-mail (1) , a password (2) and click the Sign in button (3). 
 
 ## Password recovery
 In case the user has lost his/her password, password recovery is done. You need to know your registration email in order to proceed with this procedure. Click the "Forgot your password?" link on the login screen to start the recovery procedure.
-A form will be offered to you. In this form you should insert your registration email and click the Reset Password button. An email containing more instructions will be sent to the previously inserted address.
+A form will be shown to you. In this form you should insert your registration email and click the Reset Password button. An email containing more instructions will be sent to the previously inserted address.
 
 ## Access and change personal profile
 In order to access the profile's edit page, click the email address on the menu bar and select "Profile". Here the user can modify his/her email address and password.
