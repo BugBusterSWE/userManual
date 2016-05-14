@@ -8,7 +8,7 @@ In order to login you must be registered. Login allows access to the system dash
 you must fill out the form proposed in the homepage. As illustrated in Figure 1 , will be
 asked to enter e-mail (1) , password (2) and click the Sign In button (3). Finished
 authentication, the user is redirected to the Dashboard.
-![](login.png)
+
 
 
 ## Password recovery
