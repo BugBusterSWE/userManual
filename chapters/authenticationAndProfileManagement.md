@@ -9,7 +9,6 @@ you must fill out the form proposed in the homepage. As illustrated in Figure 1 
 asked to enter e-mail (1) , password (2) and click the Sign In button (3). Finished
 authentication, the user is redirected to the Dashboard (see 3.1).
 
-TODO: inserire immagine
 
 
 
