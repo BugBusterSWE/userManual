@@ -4,12 +4,11 @@ The first step to use MaaS is sign up by clicking to the Sign up button in the h
 
 
 ## Authentication
-In order to login you must be registered (see 2.1). Login allows access to the system dashboard, and then to all the features offered by MaaS. In order to authenticate
+In order to login you must be registered. Login allows access to the system dashboard, and then to all the features offered by MaaS. In order to authenticate
 you must fill out the form proposed in the homepage. As illustrated in Figure 1 , will be
 asked to enter e-mail (1) , password (2) and click the Sign In button (3). Finished
 authentication, the user is redirected to the Dashboard (see 3.1).
-
-
+![](login.png)
 
 
 ## Password recovery
