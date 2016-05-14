@@ -12,4 +12,4 @@ In case the user has lost his/her password, password recovery is done. You need 
 A form will be offered to you. In this form you should insert your registration email and click the Reset Password button. An email containing more instructions will be sent to the previously inserted address.
 
 ## Access and change personal profile
-In order to access the profile's edit page, click the email address placed on the menu bar and select the "Profile" voice. Here the user can modify his/her email address and password.
+In order to access the profile's edit page, click the email address placed on the menu bar and select "Profile". Here the user can modify his/her email address and password.
