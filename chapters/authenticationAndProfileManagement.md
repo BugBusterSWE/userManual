@@ -1,19 +1,17 @@
 # Authentication and profile management
 ## Registration
-The first step to use MaaS is sign up by clicking to the Sign up button in the homepage. You will be offered a form to fill out with email address, password and name of the company. After that you can continue clicking the Sign up button.
+The first step for using MaaS is signing up by clicking the Sign up button in the homepage. You will be offered a form which should be filled out with an email address, a password and the name of the company. Then you can continue by clicking the Sign up button.
 
 
 ## Authentication
-In order to login you must be registered. Login allows access to the system dashboard, and then to all the features offered by MaaS. In order to authenticate
-you must fill out the form proposed in the homepage. As illustrated in Figure 1 , will be
-asked to enter e-mail (1) , password (2) and click the Sign In button (3). Finished
-authentication, the user is redirected to the Dashboard.
+Registration is required for logging in. Login allows you to access the system dashboard and all the features offered by MaaS. In order to authenticate you must fill out the form proposed in the homepage. As illustrated in Figure 1 , you will be
+asked to enter an e-mail (1) , a password (2) and click the Sign in button (3). After the authentication process is finished, the user is redirected to the dashboard.
 ![](../img/login.png)
 
 ## Password recovery
-The password recovery occurs if the user has lost the password. In order to proceed with a password recovery you need to know your registration email. Click on the link "Forgot your password?" in the login screen to start the recovery procedure.
-A form will be offered to you. In this form you have to insert your registration email and click the Reset Password button. An email containing more instructions will be sent to that address.
+In case the user has lost his/her password, password recovery is done. You need to know your registration email in order to proceed with this procedure. Click the "Forgot your password?" link in the login screen to start the recovery procedure.
+A form will be offered to you. In this form you should insert your registration email and click the Reset Password button. An email containing more instructions will be sent to the previously inserted address.
 
 
 ## Access and change personal profile
-In order to access to the profile's edit page, click on email address placed on the menu bar and select the voice "Profile". Here, the user can modify his/her email address and password.
+In order to access the profile's edit page, click the email address placed on the menu bar and select the "Profile" voice. Here the user can modify his/her email address and password.
