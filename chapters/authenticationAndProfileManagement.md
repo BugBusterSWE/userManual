@@ -1,6 +1,6 @@
 # Authentication and profile management
 ## Registration
-The first step for using MaaS is signing up by clicking the Sign up button on the homepage. You will be redirected to a page containing a form which should be filled out with an email address, a password and the name of the company. Then you can continue by clicking the Sign up button.
+The first step for using MaaS is signing up by clicking on the *Sign up* button on the homepage. You will be redirected to a page containing a form which should be filled out with an email address, a password and the name of the company. Then you can continue by clicking on the *Sign up* button.
 
 ## Authentication
 Registration is required for logging in. Login allows you to access the system dashboard and all the features offered by MaaS. In order to authenticate you must fill out the form available on the homepage. As illustrated in Figure 1 , you will be
