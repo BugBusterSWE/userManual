@@ -12,4 +12,4 @@ The show-page of a document displays the attributes of a document in a table. To
 ![](../img/documentShowPage.png)
 
 ## Displaying show page attributes
-The presence of grafted document is highlighted by the display attribute as a link through which you can access to the show page.
+The presence of grafted document is highlighted by the attribute as a link through which you can access to the show page.
