@@ -1,10 +1,11 @@
 # Collection management
+
 ## Displaying the dashboard
-The dashboard is the main page from which you can have access to the list of collection in the system and other features. To enter you must be authenticated.
+The *Dashboard* is the main page from which you can have access to the list of collection in the system and other features. To enter you must be authenticated.
 ![](../img/dashboard.png)
 
 ## Opening collection index
-The collection index page displays the contents of a collection in a table. To open a collection index (see Figure 3) you need to click on the link in the menu bar (1), MaaS will show the entire contents of the collection (2). This table displays all the documents you can open by clicking on the related links (3).
+The collection index page displays the contents of a collection in a table. To open a collection index you need to click on the link in the menu bar (1), MaaS will show the entire contents of the collection (2). This table displays all the documents you can open by clicking on the related links (3).
 ![](../img/collectionIndexPage.png)
 
 ## Opening the show-page of a document
