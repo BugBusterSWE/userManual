@@ -11,5 +11,5 @@ The collection index page displays the contents of a collection in a table. To o
 The show-page of a document displays the attributes of a document in a table. To access a show-page you must be in the index of the collection the show page belongs and follow step 3.
 ![](../img/documentShowPage.png)
 
-## Display show page attributes grafted
+## Displaying show page attributes
 The presence of grafted document is highlighted by the display attribute as a link through which you can access to the show page.
