@@ -22,7 +22,7 @@ the following points:
 
 
 ## Glossary
-Each occurrence of technical terms, domain and acronyms is underlined and linked with the glossary.
+Each occurrence of technical terms, domain and acronyms is linked with the glossary.
 
 
 
