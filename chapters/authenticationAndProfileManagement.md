@@ -7,7 +7,7 @@ Registration is required for logging in. Login allows you to access the system d
 ![](../img/login.png)
 
 ## Password recovery
-In case the user has lost his/her password, it's possible to recover the password. You need to know your registration email in order to proceed with this procedure. Click on the *Forgot your password?* link on the login screen to start the recovery procedure.
+In case the user has lost his/her password, it's possible to recover the password. You need to know your registration email in order to proceed. Click on the *Forgot your password?* link on the login screen to start the recovery procedure.
 You will have to fill out a form. In this form you should insert your registration email and click on the *Reset Password* button. An email containing more instructions will be sent to the previously inserted address.
 
 ## Access and change personal profile

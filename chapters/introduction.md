@@ -15,7 +15,7 @@ the following points:
 
 1. Contact of the person who reported the problem;
 2. Time reference;
-3. Actions and pages where the problem was found;
+3. Functions and pages where the problem was found;
 4. The error code, if displayed;
 5. Any additional note useful for understanding the problem.
 
