@@ -1,6 +1,6 @@
 # Collection management
 ## Dashboard display
-The dashboard is the main page from which you can have access to the list of collection in the system and other features. To enter you must be authenticated.
+The *Dashboard* is the main page from which you can have access to the list of collection in the system and other features. To enter you must be authenticated.
 ![](../img/dashboard.png)
 
 ## Opening collection index
