@@ -1,6 +1,7 @@
 # Authentication and profile management
 ## Registration
 The first step for using MaaS is signing up by clicking on the *Sign up* button on the homepage. You will be redirected to a page containing a form which should be filled out with an email address, a password and the name of the company. Then you can continue by clicking on the *Sign up* button.
+Once you are logged in, you can invite some user to join your company on MaaS. THese users must accept your invite in order to sign up to the MaaS application.
 
 ## Authentication
 Registration is required for logging in. Login allows you to access the system dashboard and all the features offered by MaaS. In order to authenticate you must fill out the form available on the homepage. As illustrated in figure below , you will be asked to enter an e-mail (1) , a password (2) and click on the *Sign in* button (3). When this operation has been completed, the user is redirected to the *Dashboard* page.
