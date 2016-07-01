@@ -13,3 +13,8 @@ You will have to fill out a form. In this form you should insert your registrati
 
 ## Access and change personal profile
 In order to access the profile's edit page, click on the email address on the menu bar and select *Profile*. Here the user can modify his/her email address and password.
+
+## Logout
+In order to logout you must be logger in. Click the *Logout* button at the right of the top bar.
+Once you are logged out, a new authentication will be required for the next session. The current session is terminated.
+TODO immagine
