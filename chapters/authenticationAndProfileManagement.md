@@ -23,3 +23,5 @@ The password updating is more or less the same. Here you have to insert your old
 ![](../img/changePassword.png)
 Finally, you can delete your own profile by clicking **DELETE PROFILE**. In order to delete your profile, you have to confirm your email address. The remotion isn't reversible, so please pay attention and be sure of that.
 ![](../img/deleteProfile.png)
+If you are a company owner, the deletion of your profile will remove the entire company. In this case, you are expected to insert the company name, and then click **REMOVE COMPANY** instead of insert your email address and click **DELETE PROFILE**.
+![](../img/removeCompany.png)
