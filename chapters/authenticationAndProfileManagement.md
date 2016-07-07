@@ -21,7 +21,7 @@ In particular, the *CHANGE EMAIL* form will be the following:
 Here you can insert your new email address (4). Click on **UPDATE EMAIL** (5) in order to update your email address.
 The password updating is more or less the same. Here you have to insert your old password (6) and the new password, two times (7 - 8) to be sure that there aren't errors in your typing. Againg, click on the **UPDATE PASSWORD** button (9) to change you password.
 ![](../img/changePassword.png)
-Finally, you can delete your own profile by clicking **DELETE PROFILE** (11). In order to delete your profile, you have to confirm your email address (10). The remotion isn't reversible, so please pay attention and be sure of that.
+Finally, you can delete your own profile by clicking **DELETE PROFILE** (11). In order to delete your profile, you have to confirm your email address (10). The deletion isn't reversible, so please pay attention and be sure of that.
 ![](../img/deleteProfile.png)
 If you are a company owner, the deletion of your profile will remove the entire company. In this case, you are expected to insert the company name, and then click **REMOVE COMPANY** instead of insert your email address and click **DELETE PROFILE**.
 ![](../img/removeCompany.png)
