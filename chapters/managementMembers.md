@@ -1,6 +1,6 @@
 # Members management
 ##View member list
-The main page of the member management section is the full list of the company memebers. In this page you can see all the members of your company. In particular will be displayed, for each member, the email address and hisher level (Guest, Member, Admin or Owner). You can edit the level of the members of your company by clicking the edit button (1). You will be redirected to the edit member page.
+The main page of the member management section is the full list of the company members. In this page you can see all the members of your company. In particular will be displayed, for each member, the email address and hisher level (Guest, Member, Admin or Owner). You can edit the level of the members of your company by clicking the edit button (1). You will be redirected to the edit member page.
 
 You can also add a new member to your company. Click the **ADD MEMBER** (2) button to do this.
 ![](../img/companyMembers.png)
