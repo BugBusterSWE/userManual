@@ -3,7 +3,7 @@
 ## Displaying the dashboard
 The *Dashboard* is the main page from which you can have access to the list of collection in the system and other features. To see it you must be authenticated.
 ![](../img/dashboard.png)
-From the dashboard you can view your cells, documents and collections. Clicking the ID of the element you will see the value of that element. There are three types of element: cell, document and collection. They are shown in different ways depending on their type. These pages will be desribed below.
+From the dashboard you can view your cells, documents and collections. Clicking the ID of the element you will see the value of that element. There are three types of element: cell, document and collection. They are shown in different ways depending on their type. These pages will be described below.
 
 ## Collection
 ![](../img/collection.png)
