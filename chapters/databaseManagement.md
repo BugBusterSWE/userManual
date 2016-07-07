@@ -11,7 +11,7 @@ In this page you can also edit the configuration or delete the database (see the
 ##Update database
 A click on the **UPDATE DATABASE** (1) will redirect you to the edit page. 
 ![](../img/updateDB.png)
-In this page you will see a form in which you can specify the configuration of your database. The required fields are the *Name* (1), *Host* (2), *Port* (3), *Username* (4) and *Password* (5). The first three fields are about the database and the last two are about the user used to read the data from the database. The user can be a read only user. Infact a MaaS user can only view the data of a company database. Data writing is not allowed. Finally, click on the **UPDATE DATABASE** button (6). 
+In this page you will see a form in which you can specify the configuration of your database. The required fields are the *Name* (1), *Host* (2), *Port* (3), *Username* (4) and *Password* (5). The first three fields are about the database and the last two are about the user used to read the data from the database. The user can be a read only user. In fact a MaaS user can only view the data of a company database. Data writing is not allowed. Finally, click on the **UPDATE DATABASE** button (6). 
 ![](../img/editDB.png)
 
 ##Delete database
