@@ -6,7 +6,7 @@ In the main page of the database management section you can see the list of the 
 ##Database details
 A click on the **Details** button of a database will redirect you to the configuration page of the database. Here you can view the details of the configuration.
 ![](../img/DBdata.png)
-In this page you can also edit the configuration or delete the database (see the next two sections). Please take note that the remotion of a database from MaaS will not affect the original database.
+In this page you can also edit the configuration or delete the database (see the next two sections). Please take note that the deletion of a database from MaaS will not affect the original database.
 
 ##Update database
 A click on the **UPDATE DATABASE** (1) will redirect you to the edit page. 
