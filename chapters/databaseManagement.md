@@ -19,5 +19,5 @@ In order to delete a database you have to confirm it by inserting the name of th
 ![](../img/deleteDB.png)
 
 ##Add a new database
-Clicking **ADD NEW DATABASE** you will be redirected to another page and you can add a new database. The fields are the same described for the database editing. Finally, click on the **ADD DATABASE** button (6). 
+By clicking on **ADD NEW DATABASE** you will be redirected to another page and you can add a new database. The fields are the same described for the database editing. Finally, click on the **ADD DATABASE** button (6). 
 ![](../img/addDatabase.png)
